@@ -1,0 +1,96 @@
+.body {
+    background-color: darkgray;
+    width: 60%;
+    margin:auto;
+}
+.nav li {
+    display:inline;
+    font-size: 20px;
+    color: #5a5a5a;
+    font-weight: bold;
+}
+
+
+/*ZAKAJ NE DELA če dam POSITION:FIXED*/
+.nav {
+    padding-bottom:10px;
+    padding-top:5px;
+    border-bottom: 1px solid black;
+    }
+    
+.thumbnail img {
+    width: 400px; 
+    height: 240px; 
+}
+
+/*ZAKAJ TO NE DELA samo za h3:*/
+.naroci-se h3 {
+    text-align: center;
+    color: darkred;
+}
+
+.kaj-nudimo h3 {
+    text-align: center;
+    color: darkred;
+    }
+
+.kaj-nudimo {
+    padding-bottom:50px;
+    padding-top:25px;
+    border-bottom: 1px solid black;
+    }
+
+.faq h3 {
+    text-align: center;
+    color: darkred;
+}
+.faq list {
+    font-size: 14px;
+    border:2px solid black;
+}
+
+.img-rounded {
+    width: 130px;
+  }
+
+.vprasanja {
+    width: 80%;
+    border:1px solid black;
+    margin:auto;
+    margin-bottom:10px;
+    padding:5px 30px;
+}
+  
+.odgovori{
+    width: 80%;
+    border:1px solid black;
+    border-top:0;
+    margin:auto;
+    margin-top:-10px;
+    margin-bottom:10px;
+    padding:5px 30px;
+}
+.row {
+    padding-left:15px;
+    padding-right:15px;
+}
+.naroci-se {
+    padding-bottom:50px;
+    padding-top:25px;
+    border-bottom: 1px solid black;
+    }
+
+.faq {
+    padding-bottom:50px;
+    padding-top:25px;
+    border-bottom: 1px solid black;
+    }
+
+.header {
+    padding-top:20px;
+}
+
+.form-control {
+    width:100%;
+}
+
